@@ -13,6 +13,9 @@ public class Main {
         listNode3.next=listNode4;
         listNode4.next=listNode5;
         hsap1(listNode1);
+        for (int i=0;i<5;i++){
+
+        }
 
     }
     static void hsap(ListNode node){
